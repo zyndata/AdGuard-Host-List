@@ -1,1 +1,2 @@
-||player.pl^$all,badfilter
+@@||player.pl^$all,badfilter
+@@||analytics.cloud.unity3d.com^$important

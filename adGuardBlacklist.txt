@@ -1,3 +1,4 @@
 ||onnetwork.tv^
 ||posty.pl^
 ||cat.fr.eu.criteo.com^
+||video.onnetwork.tv^

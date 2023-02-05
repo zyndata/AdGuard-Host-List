@@ -1,3 +1,4 @@
 @@||player.pl^$all,badfilter
 @@||analytics.cloud.unity3d.com^$important
-@@||tracking.epicgames.com
+@@||epicgames.com^
+@@||epicgames.dev^
